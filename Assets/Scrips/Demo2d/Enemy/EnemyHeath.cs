@@ -8,6 +8,6 @@ public class EnemyHeath : Health
         base.Die();
 
         // Thêm các hành động đặc biệt cho kẻ thù khi chết ở đây (nếu cần)
-        // Ví dụ: Tăng điểm số cho người chơi, thả vật phẩm, v.v.
+        
     }
 }
